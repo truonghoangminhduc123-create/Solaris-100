@@ -1,0 +1,6 @@
+{
+  "name": "SOLARIS 100",
+  "description": "50-player 3D kinetic hover-skimmer arena and solar monolith skirmish powered by an authoritative WebSocket server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
